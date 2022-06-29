@@ -20,8 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is Adithya🔥
+My Creator is GIMHAN ADITHYA😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94718036430'] //Owner number in aive msg
 global.premium = ['+9471803430'] //Owner Number info
@@ -43,7 +43,7 @@ global.sp = '❤️‍🩹❤️‍🩹' //A Charactor In Menu!
 
 
 global.ig = 'https://www.facebook.com/profile.php?id=100082320101707' //Facebook Account!
-global.footer = 'FACEBOOK' // DO NOT CHANGE!
+global.footer = '☬RED༒DRAGON࿐' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
     success: 'Done ✅',
